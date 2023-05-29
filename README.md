@@ -1,2 +1,2 @@
-# Quick_Scripts
+# Scripts
 usefull scripts
